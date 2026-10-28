@@ -73,15 +73,15 @@ Principles:
 | # | Milestone | Status |
 |---|-----------|--------|
 | 0 | Project setup, CI build, first drinkable item (Melon Cocktail) | ✅ Done |
-| 1 | Generic `DrinkItem` class (alcohol grams, effects, nutrition as parameters) | ⬜ To do |
-| 2 | Alcohol meter: per-player data + `/alcohol` test command | ⬜ To do |
-| 3 | Alcohol meter HUD bar | ⬜ To do |
-| 4 | Decay over time, warning zone, critical zone with damage | ⬜ To do |
-| 5 | New ingredients (lime, mint, agave, …) | ⬜ To do |
-| 6 | Brewing stand recipes: wash → spirit | ⬜ To do |
-| 7 | MVP cocktails (6) with real recipes | ⬜ To do |
-| 8 | Mocktails (alcohol-free variants) | ⬜ To do |
-| 9 | Polish: textures, sounds, Dutch translation (`nl_nl.json`), demo world | ⬜ To do |
+| 1 | Generic `DrinkItem` class (alcohol grams, effects, nutrition as parameters) | ✅ Done |
+| 2 | Alcohol meter: per-player data + `/alcohol` test command | ✅ Done |
+| 3 | Alcohol meter HUD bar | ✅ Done |
+| 4 | Decay over time, warning zone, critical zone with damage | ✅ Done |
+| 5 | New ingredients (lime, mint, agave, …) | ✅ Done |
+| 6 | Brewing stand recipes: wash → spirit | ✅ Done |
+| 7 | MVP cocktails (6) with real recipes | ✅ Done |
+| 8 | Mocktails (alcohol-free variants) | ✅ Done |
+| 9 | Polish: textures, sounds, Dutch translation (`nl_nl.json`), demo world | ✅ Done |
 | 10 | Stretch: shaker item or bar block with its own GUI | ⬜ Stretch |
 
 **Rule of thumb:** one cocktail that works end to end (ingredient → spirit → mix → drink → meter) is worth more than ten half-finished ones.

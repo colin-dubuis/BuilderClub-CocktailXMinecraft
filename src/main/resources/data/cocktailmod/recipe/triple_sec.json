@@ -1,0 +1,19 @@
+{
+  "ingredients": [
+    {
+      "item": "cocktailmod:vodka"
+    },
+    {
+      "item": "cocktailmod:orange"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "cocktailmod:triple_sec"
+  },
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc"
+}

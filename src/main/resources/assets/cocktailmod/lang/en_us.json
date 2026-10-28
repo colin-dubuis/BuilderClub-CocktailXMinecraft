@@ -1,4 +1,47 @@
 {
+  "itemGroup.cocktailmod.cocktails": "Cocktails & Spirits",
+
+  "item.cocktailmod.lime": "Lime",
+  "item.cocktailmod.mint": "Mint Leaves",
+  "item.cocktailmod.agave": "Agave",
+  "item.cocktailmod.ginger": "Ginger",
+  "item.cocktailmod.pineapple": "Pineapple",
+  "item.cocktailmod.coconut": "Coconut",
+  "item.cocktailmod.orange": "Orange",
+  "item.cocktailmod.juniper_berries": "Juniper Berries",
+
+  "item.cocktailmod.sugar_cane_wash": "Sugar Cane Wash",
+  "item.cocktailmod.potato_wash": "Potato Wash",
+  "item.cocktailmod.grain_wash": "Grain Wash",
+  "item.cocktailmod.agave_wash": "Agave Wash",
+
+  "item.cocktailmod.white_rum": "White Rum",
+  "item.cocktailmod.vodka": "Vodka",
+  "item.cocktailmod.whisky": "Whisky",
+  "item.cocktailmod.tequila": "Tequila",
+  "item.cocktailmod.gin": "Gin",
+
+  "item.cocktailmod.triple_sec": "Triple Sec",
+  "item.cocktailmod.sugar_syrup": "Sugar Syrup",
+  "item.cocktailmod.soda_water": "Soda Water",
+  "item.cocktailmod.cola": "Cola",
+  "item.cocktailmod.ginger_beer": "Ginger Beer",
+  "item.cocktailmod.coconut_cream": "Coconut Cream",
+
+  "item.cocktailmod.mojito": "Mojito",
+  "item.cocktailmod.daiquiri": "Daiquiri",
+  "item.cocktailmod.cuba_libre": "Cuba Libre",
+  "item.cocktailmod.margarita": "Margarita",
+  "item.cocktailmod.moscow_mule": "Moscow Mule",
+  "item.cocktailmod.pina_colada": "Piña Colada",
+
+  "item.cocktailmod.virgin_mojito": "Virgin Mojito",
+  "item.cocktailmod.virgin_pina_colada": "Virgin Piña Colada",
   "item.cocktailmod.melon_cocktail": "Melon Cocktail",
-  "itemGroup.cocktailmod.cocktails": "Cocktails"
+
+  "tooltip.cocktailmod.alcohol_free": "Alcohol-free (0g)",
+  "tooltip.cocktailmod.alcohol_content": "Alcohol: %sg",
+
+  "death.attack.cocktailmod.alcohol_poisoning": "%1$s had one cocktail too many",
+  "death.attack.cocktailmod.alcohol_poisoning.player": "%1$s had one cocktail too many while fighting %2$s"
 }

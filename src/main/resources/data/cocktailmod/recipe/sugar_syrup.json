@@ -1,0 +1,23 @@
+{
+  "ingredients": [
+    {
+      "type": "neoforge:components",
+      "items": "minecraft:potion",
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:water"
+        }
+      },
+      "strict": false
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "cocktailmod:sugar_syrup"
+  },
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc"
+}

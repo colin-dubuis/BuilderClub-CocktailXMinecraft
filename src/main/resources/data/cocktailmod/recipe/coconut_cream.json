@@ -1,0 +1,16 @@
+{
+  "ingredients": [
+    {
+      "item": "cocktailmod:coconut"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "cocktailmod:coconut_cream"
+  },
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc"
+}

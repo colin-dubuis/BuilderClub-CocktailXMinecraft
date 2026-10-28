@@ -1,0 +1,25 @@
+{
+  "ingredients": [
+    {
+      "item": "cocktailmod:white_rum"
+    },
+    {
+      "item": "cocktailmod:lime"
+    },
+    {
+      "item": "cocktailmod:mint"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "cocktailmod:soda_water"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "cocktailmod:mojito"
+  },
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc"
+}

@@ -1,0 +1,47 @@
+{
+  "itemGroup.cocktailmod.cocktails": "Cocktails & Sterkedrank",
+
+  "item.cocktailmod.lime": "Limoen",
+  "item.cocktailmod.mint": "Muntblaadjes",
+  "item.cocktailmod.agave": "Agave",
+  "item.cocktailmod.ginger": "Gember",
+  "item.cocktailmod.pineapple": "Ananas",
+  "item.cocktailmod.coconut": "Kokosnoot",
+  "item.cocktailmod.orange": "Sinaasappel",
+  "item.cocktailmod.juniper_berries": "Jeneverbessen",
+
+  "item.cocktailmod.sugar_cane_wash": "Suikerrietbeslag",
+  "item.cocktailmod.potato_wash": "Aardappelbeslag",
+  "item.cocktailmod.grain_wash": "Graanbeslag",
+  "item.cocktailmod.agave_wash": "Agavebeslag",
+
+  "item.cocktailmod.white_rum": "Witte Rum",
+  "item.cocktailmod.vodka": "Wodka",
+  "item.cocktailmod.whisky": "Whisky",
+  "item.cocktailmod.tequila": "Tequila",
+  "item.cocktailmod.gin": "Gin",
+
+  "item.cocktailmod.triple_sec": "Triple Sec",
+  "item.cocktailmod.sugar_syrup": "Suikersiroop",
+  "item.cocktailmod.soda_water": "Bruiswater",
+  "item.cocktailmod.cola": "Cola",
+  "item.cocktailmod.ginger_beer": "Gemberbier",
+  "item.cocktailmod.coconut_cream": "Kokosroom",
+
+  "item.cocktailmod.mojito": "Mojito",
+  "item.cocktailmod.daiquiri": "Daiquiri",
+  "item.cocktailmod.cuba_libre": "Cuba Libre",
+  "item.cocktailmod.margarita": "Margarita",
+  "item.cocktailmod.moscow_mule": "Moscow Mule",
+  "item.cocktailmod.pina_colada": "Piña Colada",
+
+  "item.cocktailmod.virgin_mojito": "Virgin Mojito",
+  "item.cocktailmod.virgin_pina_colada": "Virgin Piña Colada",
+  "item.cocktailmod.melon_cocktail": "Meloencocktail",
+
+  "tooltip.cocktailmod.alcohol_free": "Alcoholvrij (0g)",
+  "tooltip.cocktailmod.alcohol_content": "Alcohol: %sg",
+
+  "death.attack.cocktailmod.alcohol_poisoning": "%1$s had een cocktail te veel op",
+  "death.attack.cocktailmod.alcohol_poisoning.player": "%1$s had een cocktail te veel op tijdens het vechten met %2$s"
+}

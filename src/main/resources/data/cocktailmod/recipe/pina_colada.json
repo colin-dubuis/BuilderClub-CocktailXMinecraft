@@ -1,0 +1,19 @@
+{
+  "ingredients": [
+    {
+      "item": "cocktailmod:white_rum"
+    },
+    {
+      "item": "cocktailmod:coconut_cream"
+    },
+    {
+      "item": "cocktailmod:pineapple"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "cocktailmod:pina_colada"
+  },
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc"
+}

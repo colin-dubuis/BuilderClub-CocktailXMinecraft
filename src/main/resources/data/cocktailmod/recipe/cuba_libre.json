@@ -1,0 +1,19 @@
+{
+  "ingredients": [
+    {
+      "item": "cocktailmod:white_rum"
+    },
+    {
+      "item": "cocktailmod:cola"
+    },
+    {
+      "item": "cocktailmod:lime"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "cocktailmod:cuba_libre"
+  },
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc"
+}

@@ -1,0 +1,16 @@
+{
+  "ingredients": [
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "minecraft:brown_dye"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "id": "cocktailmod:ginger"
+  },
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc"
+}

@@ -1,0 +1,16 @@
+{
+  "ingredients": [
+    {
+      "item": "minecraft:melon_slice"
+    },
+    {
+      "item": "minecraft:yellow_dye"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "id": "cocktailmod:pineapple"
+  },
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc"
+}

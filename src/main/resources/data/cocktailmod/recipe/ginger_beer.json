@@ -1,0 +1,26 @@
+{
+  "ingredients": [
+    {
+      "type": "neoforge:components",
+      "items": "minecraft:potion",
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:water"
+        }
+      },
+      "strict": false
+    },
+    {
+      "item": "cocktailmod:ginger"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "cocktailmod:ginger_beer"
+  },
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc"
+}

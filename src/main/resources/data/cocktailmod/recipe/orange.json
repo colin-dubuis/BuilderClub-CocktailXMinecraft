@@ -1,0 +1,16 @@
+{
+  "ingredients": [
+    {
+      "item": "minecraft:apple"
+    },
+    {
+      "item": "minecraft:orange_dye"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "id": "cocktailmod:orange"
+  },
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc"
+}

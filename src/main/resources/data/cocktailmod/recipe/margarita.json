@@ -1,0 +1,19 @@
+{
+  "ingredients": [
+    {
+      "item": "cocktailmod:tequila"
+    },
+    {
+      "item": "cocktailmod:triple_sec"
+    },
+    {
+      "item": "cocktailmod:lime"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "cocktailmod:margarita"
+  },
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc"
+}

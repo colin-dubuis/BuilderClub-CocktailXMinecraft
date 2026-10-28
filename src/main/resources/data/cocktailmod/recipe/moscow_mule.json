@@ -1,0 +1,19 @@
+{
+  "ingredients": [
+    {
+      "item": "cocktailmod:vodka"
+    },
+    {
+      "item": "cocktailmod:ginger_beer"
+    },
+    {
+      "item": "cocktailmod:lime"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "cocktailmod:moscow_mule"
+  },
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc"
+}
